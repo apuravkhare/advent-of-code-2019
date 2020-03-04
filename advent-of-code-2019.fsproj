@@ -8,10 +8,13 @@
 
   <ItemGroup>
     <Compile Include="Utils.fs" />
+    <Compile Include="Tree.fs" />
     <Compile Include="Day1.fs" />
     <Compile Include="Day2.fs" />
     <Compile Include="Day3.fs" />
     <Compile Include="Day4.fs" />
+    <Compile Include="Day5.fs" />
+    <Compile Include="Day6.fs" />
     <Compile Include="RunnerHelper.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
